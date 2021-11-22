@@ -1,0 +1,22 @@
+{
+  "name": "final-project_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js",
+    "create": "mkdir build",
+    "delete": "rm -rf build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/Final-project_React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/Final-project_React/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/Final-project_React#readme"
+}
